@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1670805044601933976}
   - component: {fileID: 5706060911382937476}
   m_Layer: 0
-  m_Name: Wall
+  m_Name: "Wall_Carr\xE9"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
